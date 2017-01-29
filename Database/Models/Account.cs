@@ -28,8 +28,8 @@ namespace WakSharp.Database.Models
                 account = new Account()
                 {
                     ID = Int32.Parse("10"),
-                    Username = "spil778",
-                    Password = "czu26ueh",
+                    Username = "admin",
+                    Password = "admin",
                     Pseudo = "",
                     Rank = Int32.Parse("1"),
                     SecretQuestion = "lol",
