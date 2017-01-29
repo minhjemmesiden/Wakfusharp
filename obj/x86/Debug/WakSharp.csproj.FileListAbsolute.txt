@@ -1,0 +1,25 @@
+c:\users\nightwolf\documents\visual studio 2010\Projects\WakSharp\WakSharp\bin\Debug\WakSharp.exe
+c:\users\nightwolf\documents\visual studio 2010\Projects\WakSharp\WakSharp\bin\Debug\WakSharp.pdb
+c:\users\nightwolf\documents\visual studio 2010\Projects\WakSharp\WakSharp\bin\Debug\Newtonsoft.Json.dll
+c:\users\nightwolf\documents\visual studio 2010\Projects\WakSharp\WakSharp\bin\Debug\Newtonsoft.Json.xml
+c:\users\nightwolf\documents\visual studio 2010\Projects\WakSharp\WakSharp\obj\x86\Debug\WakSharp.csprojResolveAssemblyReference.cache
+c:\users\nightwolf\documents\visual studio 2010\Projects\WakSharp\WakSharp\obj\x86\Debug\WakSharp.exe
+c:\users\nightwolf\documents\visual studio 2010\Projects\WakSharp\WakSharp\obj\x86\Debug\WakSharp.pdb
+c:\users\nightwolf\documents\visual studio 2010\Projects\WakSharp\WakSharp\bin\Debug\config.properties
+c:\users\nightwolf\documents\visual studio 2010\Projects\WakSharp\WakSharp\bin\Debug\SilverSock.dll
+c:\users\nightwolf\documents\visual studio 2010\Projects\WakSharp\WakSharp\bin\Debug\SilverSock.pdb
+C:\Users\NightWolf\Documents\Visual Studio 2010\Projects\WakSharp\WakSharp\bin\Debug\MySql.Data.dll
+C:\Users\NightWolf\documents\visual studio 2010\Projects\WakSharp\WakSharp\bin\Debug\ICSharpCode.TextEditor.dll
+C:\Users\NightWolf\documents\visual studio 2010\Projects\WakSharp\WakSharp\bin\Debug\Noesis.Javascript.dll
+C:\Users\NightWolf\documents\visual studio 2010\Projects\WakSharp\WakSharp\obj\x86\Debug\WakSharp.Modules.Developper.ScriptingForm.resources
+C:\Users\NightWolf\documents\visual studio 2010\Projects\WakSharp\WakSharp\obj\x86\Debug\WakSharp.csproj.GenerateResource.Cache
+C:\Users\Nicki\Downloads\WakSharp-master\obj\x86\Debug\WakSharp.exe
+C:\Users\Nicki\Downloads\WakSharp-master\obj\x86\Debug\WakSharp.pdb
+C:\Users\Nicki\Downloads\WakSharp-master\bin\Debug\config.properties
+C:\Users\Nicki\Downloads\WakSharp-master\bin\Debug\WakSharp.exe
+C:\Users\Nicki\Downloads\WakSharp-master\bin\Debug\WakSharp.pdb
+C:\Users\Nicki\Downloads\WakSharp-master\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nicki\Downloads\WakSharp-master\bin\Debug\SilverSock.pdb
+C:\Users\Nicki\Downloads\WakSharp-master\obj\x86\Debug\WakSharp.csprojResolveAssemblyReference.cache
+C:\Users\Nicki\Downloads\WakSharp-master\obj\x86\Debug\WakSharp.Modules.Developper.ScriptingForm.resources
+C:\Users\Nicki\Downloads\WakSharp-master\obj\x86\Debug\WakSharp.csproj.GenerateResource.Cache
