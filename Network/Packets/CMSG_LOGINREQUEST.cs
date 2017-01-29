@@ -25,8 +25,8 @@ namespace WakSharp.Network.Packets
             var password = decoded.ReadString();
             Console.Out.WriteLine("3");
             */
-            this.Username = "spil778";
-            this.Password = "czu26ueh";
+            this.Username = "admin";
+            this.Password = "admin";
         }
     }
 }
